@@ -22,7 +22,7 @@ Unisphere aims to gather various information related to universities all around 
 This project is implemented for the Senior Design Project course of Bilkent University. The documentations related to the course can be found below :
 
 * Project Specifications Report can be found [here](https://github.com/unisphere-bilkent/unisphere-bilkent.github.io/blob/master/docs/project-specifications-report.pdf)
-* Analysis Report: TBA
+* Analysis Report: [here](https://github.com/unisphere-bilkent/unisphere-bilkent.github.io/blob/master/docs/project-specifications-report.pdf)
 * High-Level Design Report: TBA
 * Low-Level Design Report: TBA
 * Final Report: TBA
